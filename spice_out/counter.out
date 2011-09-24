@@ -1,0 +1,1186 @@
+
+Circuit: *this is a 10 bit binary counter with 220 transistors
+
+Error on line 48 : m$770 70 69 68 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 49 : m$769 70 73 85 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 50 : m$768 71 69 67 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 51 : m$767 71 73 85 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 52 : m$766 65 64 63 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 53 : m$765 65 74 84 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 54 : m$764 66 64 62 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 55 : m$763 66 74 84 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 56 : m$762 60 59 58 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 57 : m$761 60 75 83 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 58 : m$760 61 59 57 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 59 : m$759 61 75 83 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 60 : m$758 55 54 53 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 61 : m$757 55 76 92 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 62 : m$756 56 54 52 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 63 : m$755 56 76 92 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 64 : m$754 50 49 48 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 65 : m$753 50 77 91 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 66 : m$752 51 49 47 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 67 : m$751 51 77 91 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 68 : m$750 45 44 43 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 69 : m$749 45 78 86 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 70 : m$748 46 44 42 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 71 : m$747 46 78 86 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 72 : m$746 40 39 38 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 73 : m$745 40 79 87 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 74 : m$744 41 39 37 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 75 : m$743 41 79 87 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 76 : m$742 35 34 33 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 77 : m$741 35 80 88 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 78 : m$740 36 34 32 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 79 : m$739 36 80 88 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 80 : m$738 30 29 28 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 81 : m$737 30 82 89 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 82 : m$736 31 29 27 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 83 : m$735 31 82 89 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 84 : m$734 25 24 23 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 85 : m$733 25 93 90 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 86 : m$732 26 24 22 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 87 : m$731 26 93 90 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 88 : m$730 70 73 68 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 89 : m$729 70 69 85 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 90 : m$728 71 73 67 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 91 : m$727 71 69 85 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 92 : m$726 65 74 63 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 93 : m$725 65 64 84 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 94 : m$724 66 74 62 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 95 : m$723 66 64 84 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 96 : m$722 60 75 58 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 97 : m$721 60 59 83 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 98 : m$720 61 75 57 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 99 : m$719 61 59 83 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 100 : m$718 55 76 53 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 101 : m$717 55 54 92 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 102 : m$716 56 76 52 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 103 : m$715 56 54 92 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 104 : m$714 50 77 48 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 105 : m$713 50 49 91 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 106 : m$712 51 77 47 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 107 : m$711 51 49 91 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 108 : m$710 45 78 43 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 109 : m$709 45 44 86 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 110 : m$708 46 78 42 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 111 : m$707 46 44 86 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 112 : m$706 40 79 38 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 113 : m$705 40 39 87 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 114 : m$704 41 79 37 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 115 : m$703 41 39 87 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 116 : m$702 35 80 33 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 117 : m$701 35 34 88 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 118 : m$700 36 80 32 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 119 : m$699 36 34 88 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 120 : m$698 30 82 28 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 121 : m$697 30 29 89 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 122 : m$696 31 82 27 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 123 : m$695 31 29 89 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 124 : m$694 25 93 23 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 125 : m$693 25 24 90 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 126 : m$692 26 93 22 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 127 : m$691 26 24 90 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 128 : m$640 24 93 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 129 : m$639 22 23 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 130 : m$638 82 25 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 131 : m$637 29 82 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 132 : m$636 27 28 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 133 : m$635 80 30 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 134 : m$634 34 80 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 135 : m$633 32 33 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 136 : m$632 79 35 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 137 : m$631 39 79 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 138 : m$630 37 38 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 139 : m$629 78 40 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 140 : m$628 44 78 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 141 : m$627 42 43 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 142 : m$626 77 45 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 143 : m$625 49 77 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 144 : m$624 47 48 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 145 : m$623 76 50 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 146 : m$622 54 76 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 147 : m$621 52 53 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 148 : m$620 75 55 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 149 : m$619 59 75 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 150 : m$618 57 58 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 151 : m$617 74 60 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 152 : m$616 64 74 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 153 : m$615 62 63 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 154 : m$614 73 65 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 155 : m$613 69 73 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 156 : m$612 67 68 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 157 : m$611 81 70 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 158 : m$610 23 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 159 : m$609 23 26 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 160 : m$608 90 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 161 : m$607 90 82 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 162 : m$606 28 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 163 : m$605 28 31 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 164 : m$604 89 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 165 : m$603 89 80 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 166 : m$602 33 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 167 : m$601 33 36 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 168 : m$600 88 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 169 : m$599 88 79 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 170 : m$598 38 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 171 : m$597 38 41 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 172 : m$596 87 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 173 : m$595 87 78 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 174 : m$594 43 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 175 : m$593 43 46 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 176 : m$592 86 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 177 : m$591 86 77 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 178 : m$590 48 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 179 : m$589 48 51 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 180 : m$588 91 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 181 : m$587 91 76 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 182 : m$586 53 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 183 : m$585 53 56 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 184 : m$584 92 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 185 : m$583 92 75 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 186 : m$582 58 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 187 : m$581 58 61 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 188 : m$580 83 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 189 : m$579 83 74 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 190 : m$578 63 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 191 : m$577 63 66 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 192 : m$576 84 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 193 : m$575 84 73 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 194 : m$574 68 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 195 : m$573 68 71 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 196 : m$572 85 72 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 197 : m$571 85 81 21 21 pmod w=56u l=3u ad=504p as=504p*pw56l3
+ unknown parameter (*) 
+Error on line 198 : m$570 24 93 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 199 : m$569 22 23 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 200 : m$568 82 25 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 201 : m$567 29 82 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 202 : m$566 27 28 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 203 : m$565 80 30 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 204 : m$564 34 80 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 205 : m$563 32 33 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 206 : m$562 79 35 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 207 : m$561 39 79 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 208 : m$560 37 38 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 209 : m$559 78 40 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 210 : m$558 44 78 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 211 : m$557 42 43 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 212 : m$556 77 45 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 213 : m$555 49 77 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 214 : m$554 47 48 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 215 : m$553 76 50 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 216 : m$552 54 76 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 217 : m$551 52 53 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 218 : m$550 75 55 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 219 : m$549 59 75 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 220 : m$548 57 58 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 221 : m$547 74 60 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 222 : m$546 64 74 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 223 : m$545 62 63 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 224 : m$544 73 65 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 225 : m$543 69 73 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 226 : m$542 67 68 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 227 : m$541 81 70 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 228 : m$540 20 26 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 229 : m$539 23 72 20 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 230 : m$538 19 82 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 231 : m$537 90 72 19 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 232 : m$536 18 31 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 233 : m$535 28 72 18 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 234 : m$534 17 80 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 235 : m$533 89 72 17 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 236 : m$532 16 36 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 237 : m$531 33 72 16 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 238 : m$530 15 79 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 239 : m$529 88 72 15 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 240 : m$528 14 41 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 241 : m$527 38 72 14 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 242 : m$526 13 78 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 243 : m$525 87 72 13 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 244 : m$524 12 46 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 245 : m$523 43 72 12 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 246 : m$522 11 77 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 247 : m$521 86 72 11 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 248 : m$520 10 51 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 249 : m$519 48 72 10 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 250 : m$518 9 76 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 251 : m$517 91 72 9 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 252 : m$516 8 56 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 253 : m$515 53 72 8 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 254 : m$514 7 75 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 255 : m$513 92 72 7 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 256 : m$512 6 61 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 257 : m$511 58 72 6 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 258 : m$510 5 74 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 259 : m$509 83 72 5 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 260 : m$508 4 66 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 261 : m$507 63 72 4 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 262 : m$506 3 73 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 263 : m$505 84 72 3 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 264 : m$504 2 71 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 265 : m$503 68 72 2 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 266 : m$502 1 81 0 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Error on line 267 : m$501 85 72 1 0 nmod w=23u l=3u ad=207p as=207p*nw23l3
+ unknown parameter (*) 
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+21                                          10
+72                                           0
+93                                           0
+70                                     9.99996
+69                                     9.99992
+68                                     9.99992
+73                                 2.20689e-08
+85                                     9.99996
+71                                     9.99988
+67                                 2.61745e-05
+65                                     9.99996
+64                                     9.99992
+63                                     9.99992
+74                                 2.20689e-08
+84                                     9.99996
+66                                     9.99988
+62                                 2.61745e-05
+60                                     9.99996
+59                                     9.99992
+58                                     9.99992
+75                                 2.20689e-08
+83                                     9.99996
+61                                     9.99988
+57                                 2.61745e-05
+55                                     9.99996
+54                                     9.99992
+53                                     9.99992
+76                                 2.20689e-08
+92                                     9.99996
+56                                     9.99988
+52                                 2.61745e-05
+50                                     9.99996
+49                                     9.99992
+48                                     9.99992
+77                                 2.20689e-08
+91                                     9.99996
+51                                     9.99988
+47                                 2.61745e-05
+45                                     9.99996
+44                                     9.99992
+43                                     9.99992
+78                                 2.20689e-08
+86                                     9.99996
+46                                     9.99988
+42                                 2.61745e-05
+40                                     9.99996
+39                                     9.99992
+38                                     9.99992
+79                                 2.20689e-08
+87                                     9.99996
+41                                     9.99988
+37                                 2.61745e-05
+35                                     9.99996
+34                                     9.99992
+33                                     9.99992
+80                                 2.20689e-08
+88                                     9.99996
+36                                     9.99988
+32                                 2.61745e-05
+30                                     9.99996
+29                                     9.99992
+28                                     9.99992
+82                                 2.20689e-08
+89                                     9.99996
+31                                     9.99988
+27                                 2.61745e-05
+25                                     9.99996
+24                                     9.99992
+23                                     9.99992
+90                                     9.99996
+26                                     9.99988
+22                                 2.61744e-05
+81                                 2.20689e-08
+20                                 2.61308e-05
+19                                    0.261904
+18                                 2.61308e-05
+17                                    0.261904
+16                                 2.61308e-05
+15                                    0.261904
+14                                 2.61308e-05
+13                                    0.261904
+12                                 2.61308e-05
+11                                    0.261904
+10                                 2.61308e-05
+9                                     0.261904
+8                                  2.61308e-05
+7                                     0.261904
+6                                  2.61308e-05
+5                                     0.261904
+4                                  2.61308e-05
+3                                     0.261904
+2                                  2.61308e-05
+1                                     0.261904
+vclk#branch                                  0
+vres#branch                                  0
+vdd#branch                        -1.60961e-06
+
+
+No. of Data Rows : 276
+             *this is a 10 bit binary counter with 220 transistors
+             Transient Analysis  Sat Sep 24 21:52:20  2011
+--------------------------------------------------------------------------------
+Index   time            v(93)           v(72)           v(82)           
+--------------------------------------------------------------------------------
+0	0.000000e+00	0.000000e+00	0.000000e+00	2.206893e-08	
+1	5.000000e-12	5.000000e-03	5.000000e-03	2.306402e-05	
+2	1.000000e-11	1.000000e-02	1.000000e-02	6.867739e-05	
+3	2.000000e-11	2.000000e-02	2.000000e-02	1.987361e-04	
+4	4.000000e-11	4.000000e-02	4.000000e-02	6.128237e-04	
+5	8.000000e-11	8.000000e-02	8.000000e-02	1.602402e-03	
+6	1.600000e-10	1.600000e-01	1.600000e-01	3.304450e-03	
+7	3.200000e-10	3.200000e-01	3.200000e-01	5.312573e-03	
+8	5.452281e-10	5.452281e-01	5.452281e-01	6.299523e-03	
+9	8.544879e-10	8.544879e-01	8.544879e-01	6.202701e-03	
+10	1.182581e-09	1.182581e+00	1.182581e+00	5.430775e-03	
+11	1.587851e-09	1.587851e+00	1.587851e+00	3.817133e-03	
+12	2.087851e-09	2.087851e+00	2.087851e+00	1.057376e-03	
+13	2.587851e-09	2.587851e+00	2.587851e+00	-1.59895e-03	
+14	3.087851e-09	3.087851e+00	3.087851e+00	-3.52352e-03	
+15	3.587851e-09	3.587851e+00	3.587851e+00	-4.68823e-03	
+16	4.087851e-09	4.087851e+00	4.087851e+00	-5.76940e-03	
+17	4.587851e-09	4.587851e+00	4.587851e+00	-7.08533e-03	
+18	5.000000e-09	5.000000e+00	5.000000e+00	-8.12142e-03	
+19	5.050000e-09	5.000000e+00	5.000000e+00	-9.14734e-03	
+20	5.150000e-09	5.000000e+00	5.000000e+00	-1.14129e-02	
+21	5.350000e-09	5.000000e+00	5.000000e+00	-1.42398e-02	
+22	5.615635e-09	5.000000e+00	5.000000e+00	-1.51189e-02	
+23	5.889574e-09	5.000000e+00	5.000000e+00	-1.52211e-02	
+24	6.148500e-09	5.000000e+00	5.000000e+00	-1.49632e-02	
+25	6.524618e-09	5.000000e+00	5.000000e+00	-1.43202e-02	
+26	6.935388e-09	5.000000e+00	5.000000e+00	-1.23509e-02	
+27	7.307219e-09	5.000000e+00	5.000000e+00	-9.55543e-03	
+28	7.807219e-09	5.000000e+00	5.000000e+00	-4.83734e-03	
+29	8.307219e-09	5.000000e+00	5.000000e+00	-3.22779e-04	
+30	8.807219e-09	5.000000e+00	5.000000e+00	2.929972e-03	
+31	9.307219e-09	5.000000e+00	5.000000e+00	4.532026e-03	
+32	9.807219e-09	5.000000e+00	5.000000e+00	5.034332e-03	
+33	1.030722e-08	5.000000e+00	5.000000e+00	5.132119e-03	
+34	1.080722e-08	5.000000e+00	5.000000e+00	5.142891e-03	
+35	1.130722e-08	5.000000e+00	5.000000e+00	4.884150e-03	
+36	1.180722e-08	5.000000e+00	5.000000e+00	4.432065e-03	
+37	1.230722e-08	5.000000e+00	5.000000e+00	3.879052e-03	
+38	1.280722e-08	5.000000e+00	5.000000e+00	3.318313e-03	
+39	1.330722e-08	5.000000e+00	5.000000e+00	2.768054e-03	
+40	1.380722e-08	5.000000e+00	5.000000e+00	2.271786e-03	
+41	1.430722e-08	5.000000e+00	5.000000e+00	1.820574e-03	
+42	1.480722e-08	5.000000e+00	5.000000e+00	1.436571e-03	
+43	1.500000e-08	5.000000e+00	5.000000e+00	1.303331e-03	
+44	1.505000e-08	4.950000e+00	5.000000e+00	7.324347e-04	
+45	1.515000e-08	4.850000e+00	5.000000e+00	-6.09352e-04	
+46	1.535000e-08	4.650000e+00	5.000000e+00	-2.78458e-03	
+47	1.575000e-08	4.250000e+00	5.000000e+00	-4.91458e-03	
+48	1.625000e-08	3.750000e+00	5.000000e+00	-5.90988e-03	
+49	1.675000e-08	3.250000e+00	5.000000e+00	-6.05925e-03	
+50	1.725000e-08	2.750000e+00	5.000000e+00	-6.12347e-03	
+51	1.768652e-08	2.313478e+00	5.000000e+00	-6.47951e-03	
+52	1.815211e-08	1.847887e+00	5.000000e+00	-6.82204e-03	
+53	1.865211e-08	1.347887e+00	5.000000e+00	-5.07149e-03	
+54	1.915211e-08	8.478871e-01	5.000000e+00	-2.61805e-03	
+
+Index   time            v(93)           v(72)           v(82)           
+--------------------------------------------------------------------------------
+55	1.963546e-08	3.645355e-01	5.000000e+00	1.708529e-04	
+56	2.000000e-08	0.000000e+00	5.000000e+00	3.204483e-03	
+57	2.001106e-08	1.105741e-02	5.000000e+00	3.426999e-03	
+58	2.003317e-08	3.317223e-02	5.000000e+00	4.043961e-03	
+59	2.007740e-08	7.740186e-02	5.000000e+00	5.653212e-03	
+60	2.016586e-08	1.658611e-01	5.000000e+00	8.494724e-03	
+61	2.034278e-08	3.427797e-01	5.000000e+00	1.238573e-02	
+62	2.058202e-08	5.820242e-01	5.000000e+00	1.511460e-02	
+63	2.086343e-08	8.634293e-01	5.000000e+00	1.600408e-02	
+64	2.119872e-08	1.198721e+00	5.000000e+00	1.524648e-02	
+65	2.156972e-08	1.569724e+00	5.000000e+00	1.332840e-02	
+66	2.206972e-08	2.069724e+00	5.000000e+00	1.042299e-02	
+67	2.256972e-08	2.569724e+00	5.000000e+00	7.757363e-03	
+68	2.306972e-08	3.069724e+00	5.000000e+00	5.491145e-03	
+69	2.356972e-08	3.569724e+00	5.000000e+00	3.641030e-03	
+70	2.406972e-08	4.069724e+00	5.000000e+00	1.968468e-03	
+71	2.447845e-08	4.478454e+00	5.000000e+00	2.872519e-04	
+72	2.484711e-08	4.847113e+00	5.000000e+00	-1.54412e-03	
+73	2.500000e-08	5.000000e+00	5.000000e+00	-2.38648e-03	
+74	2.503653e-08	5.000000e+00	5.000000e+00	-2.91508e-03	
+75	2.510960e-08	5.000000e+00	5.000000e+00	-4.15764e-03	
+76	2.525573e-08	5.000000e+00	5.000000e+00	-6.46126e-03	
+77	2.554799e-08	5.000000e+00	5.000000e+00	-9.51747e-03	
+78	2.604799e-08	5.000000e+00	5.000000e+00	-1.31947e-02	
+79	2.654799e-08	5.000000e+00	5.000000e+00	-1.63187e-02	
+80	2.701394e-08	5.000000e+00	5.000000e+00	-1.63801e-02	
+81	2.751394e-08	5.000000e+00	5.000000e+00	-7.42301e-03	
+82	2.801394e-08	5.000000e+00	5.000000e+00	1.122913e-02	
+83	2.851394e-08	5.000000e+00	5.000000e+00	3.191257e-02	
+84	2.901394e-08	5.000000e+00	5.000000e+00	4.518344e-02	
+85	2.950685e-08	5.000000e+00	5.000000e+00	4.709954e-02	
+86	3.000685e-08	5.000000e+00	5.000000e+00	4.032750e-02	
+87	3.050685e-08	5.000000e+00	5.000000e+00	3.011454e-02	
+88	3.100685e-08	5.000000e+00	5.000000e+00	2.054411e-02	
+89	3.150685e-08	5.000000e+00	5.000000e+00	1.350075e-02	
+90	3.200685e-08	5.000000e+00	5.000000e+00	9.324952e-03	
+91	3.250685e-08	5.000000e+00	5.000000e+00	7.217043e-03	
+92	3.300685e-08	5.000000e+00	5.000000e+00	5.897401e-03	
+93	3.349481e-08	5.000000e+00	5.000000e+00	4.909361e-03	
+94	3.399481e-08	5.000000e+00	5.000000e+00	4.042235e-03	
+95	3.449481e-08	5.000000e+00	5.000000e+00	3.306066e-03	
+96	3.499481e-08	5.000000e+00	5.000000e+00	2.668938e-03	
+97	3.500000e-08	5.000000e+00	5.000000e+00	2.663385e-03	
+98	3.501037e-08	4.989627e+00	5.000000e+00	2.596819e-03	
+99	3.503112e-08	4.968881e+00	5.000000e+00	2.381908e-03	
+100	3.506440e-08	4.935600e+00	5.000000e+00	1.867547e-03	
+101	3.513096e-08	4.869038e+00	5.000000e+00	8.509284e-04	
+102	3.526409e-08	4.735913e+00	5.000000e+00	-7.79430e-04	
+103	3.553034e-08	4.469664e+00	5.000000e+00	-2.90340e-03	
+104	3.603034e-08	3.969664e+00	5.000000e+00	-4.75971e-03	
+105	3.653034e-08	3.469664e+00	5.000000e+00	-5.34820e-03	
+106	3.703034e-08	2.969664e+00	5.000000e+00	-5.53973e-03	
+107	3.753034e-08	2.469664e+00	5.000000e+00	-5.93609e-03	
+108	3.803034e-08	1.969664e+00	5.000000e+00	-6.58590e-03	
+109	3.853034e-08	1.469664e+00	5.000000e+00	-5.53017e-03	
+110	3.903034e-08	9.696643e-01	5.000000e+00	-3.41834e-03	
+111	3.953034e-08	4.696643e-01	5.000000e+00	-5.60773e-04	
+112	4.000000e-08	0.000000e+00	5.000000e+00	3.546589e-03	
+
+Index   time            v(93)           v(72)           v(82)           
+--------------------------------------------------------------------------------
+113	4.001374e-08	1.374041e-02	5.000000e+00	3.846819e-03	
+114	4.004122e-08	4.122123e-02	5.000000e+00	4.665326e-03	
+115	4.009618e-08	9.618286e-02	5.000000e+00	6.664384e-03	
+116	4.020611e-08	2.061061e-01	5.000000e+00	9.910545e-03	
+117	4.039514e-08	3.951440e-01	5.000000e+00	1.350000e-02	
+118	4.069157e-08	6.915740e-01	5.000000e+00	1.595452e-02	
+119	4.100136e-08	1.001358e+00	5.000000e+00	1.604371e-02	
+120	4.136895e-08	1.368955e+00	5.000000e+00	1.455624e-02	
+121	4.179091e-08	1.790910e+00	5.000000e+00	1.208954e-02	
+122	4.229091e-08	2.290910e+00	5.000000e+00	9.202622e-03	
+123	4.279091e-08	2.790910e+00	5.000000e+00	6.679176e-03	
+124	4.329091e-08	3.290910e+00	5.000000e+00	4.584304e-03	
+125	4.379091e-08	3.790910e+00	5.000000e+00	2.917026e-03	
+126	4.429091e-08	4.290910e+00	5.000000e+00	1.011436e-03	
+127	4.479091e-08	4.790910e+00	5.000000e+00	-1.40547e-03	
+128	4.500000e-08	5.000000e+00	5.000000e+00	-2.48881e-03	
+129	4.505000e-08	5.000000e+00	5.000000e+00	-3.23347e-03	
+130	4.515000e-08	5.000000e+00	5.000000e+00	-4.89118e-03	
+131	4.535000e-08	5.000000e+00	5.000000e+00	-7.66190e-03	
+132	4.575000e-08	5.000000e+00	5.000000e+00	-1.11028e-02	
+133	4.614573e-08	5.000000e+00	5.000000e+00	-1.38187e-02	
+134	4.658730e-08	5.000000e+00	5.000000e+00	-1.65626e-02	
+135	4.700450e-08	5.000000e+00	5.000000e+00	-1.65077e-02	
+136	4.750450e-08	5.000000e+00	5.000000e+00	-7.61364e-03	
+137	4.800450e-08	5.000000e+00	5.000000e+00	1.082303e-02	
+138	4.850450e-08	5.000000e+00	5.000000e+00	3.129684e-02	
+139	4.900450e-08	5.000000e+00	5.000000e+00	4.443053e-02	
+140	4.950450e-08	5.000000e+00	5.000000e+00	4.630099e-02	
+141	5.000450e-08	5.000000e+00	5.000000e+00	3.953674e-02	
+142	5.050450e-08	5.000000e+00	5.000000e+00	2.946628e-02	
+143	5.100450e-08	5.000000e+00	5.000000e+00	2.008074e-02	
+144	5.150450e-08	5.000000e+00	5.000000e+00	1.321245e-02	
+145	5.200450e-08	5.000000e+00	5.000000e+00	9.167919e-03	
+146	5.250450e-08	5.000000e+00	5.000000e+00	7.135882e-03	
+147	5.300450e-08	5.000000e+00	5.000000e+00	5.839507e-03	
+148	5.349617e-08	5.000000e+00	5.000000e+00	4.855356e-03	
+149	5.399617e-08	5.000000e+00	5.000000e+00	3.996641e-03	
+150	5.449617e-08	5.000000e+00	5.000000e+00	3.268727e-03	
+151	5.499617e-08	5.000000e+00	5.000000e+00	2.637057e-03	
+152	5.500000e-08	5.000000e+00	5.000000e+00	2.633164e-03	
+153	5.500766e-08	4.992338e+00	5.000000e+00	2.592929e-03	
+154	5.502298e-08	4.977015e+00	5.000000e+00	2.458119e-03	
+155	5.505174e-08	4.948257e+00	5.000000e+00	2.041215e-03	
+156	5.510926e-08	4.890742e+00	5.000000e+00	1.138333e-03	
+157	5.522429e-08	4.775710e+00	5.000000e+00	-3.70757e-04	
+158	5.545435e-08	4.545647e+00	5.000000e+00	-2.44119e-03	
+159	5.591448e-08	4.085520e+00	5.000000e+00	-4.50783e-03	
+160	5.641448e-08	3.585520e+00	5.000000e+00	-5.28025e-03	
+161	5.691448e-08	3.085520e+00	5.000000e+00	-5.51609e-03	
+162	5.741448e-08	2.585520e+00	5.000000e+00	-5.80925e-03	
+163	5.791448e-08	2.085520e+00	5.000000e+00	-6.55861e-03	
+164	5.841448e-08	1.585520e+00	5.000000e+00	-6.03169e-03	
+165	5.891448e-08	1.085520e+00	5.000000e+00	-3.09796e-03	
+166	5.941448e-08	5.855203e-01	5.000000e+00	-1.83213e-04	
+167	5.991448e-08	8.552033e-02	5.000000e+00	2.914440e-03	
+168	6.000000e-08	6.617445e-15	5.000000e+00	3.545735e-03	
+169	6.000358e-08	3.583284e-03	5.000000e+00	3.585034e-03	
+170	6.001075e-08	1.074985e-02	5.000000e+00	3.696586e-03	
+
+Index   time            v(93)           v(72)           v(82)           
+--------------------------------------------------------------------------------
+171	6.002508e-08	2.508299e-02	5.000000e+00	4.073635e-03	
+172	6.005375e-08	5.374926e-02	5.000000e+00	5.064749e-03	
+173	6.011108e-08	1.110818e-01	5.000000e+00	7.026723e-03	
+174	6.022575e-08	2.257469e-01	5.000000e+00	1.013544e-02	
+175	6.045508e-08	4.550771e-01	5.000000e+00	1.391335e-02	
+176	6.077606e-08	7.760582e-01	5.000000e+00	1.576186e-02	
+177	6.115284e-08	1.152835e+00	5.000000e+00	1.519079e-02	
+178	6.151288e-08	1.512885e+00	5.000000e+00	1.341555e-02	
+179	6.201288e-08	2.012885e+00	5.000000e+00	1.055184e-02	
+180	6.251288e-08	2.512885e+00	5.000000e+00	7.891043e-03	
+181	6.301288e-08	3.012885e+00	5.000000e+00	5.603679e-03	
+182	6.351288e-08	3.512885e+00	5.000000e+00	3.731422e-03	
+183	6.401288e-08	4.012885e+00	5.000000e+00	2.108232e-03	
+184	6.451288e-08	4.512885e+00	5.000000e+00	1.328845e-04	
+185	6.500000e-08	5.000000e+00	5.000000e+00	-2.47477e-03	
+186	6.503369e-08	5.000000e+00	5.000000e+00	-2.95575e-03	
+187	6.510108e-08	5.000000e+00	5.000000e+00	-4.09701e-03	
+188	6.523585e-08	5.000000e+00	5.000000e+00	-6.27250e-03	
+189	6.550539e-08	5.000000e+00	5.000000e+00	-9.24514e-03	
+190	6.578354e-08	5.000000e+00	5.000000e+00	-1.14204e-02	
+191	6.614216e-08	5.000000e+00	5.000000e+00	-1.39017e-02	
+192	6.654817e-08	5.000000e+00	5.000000e+00	-1.65597e-02	
+193	6.691417e-08	5.000000e+00	5.000000e+00	-1.71110e-02	
+194	6.741417e-08	5.000000e+00	5.000000e+00	-9.95066e-03	
+195	6.791417e-08	5.000000e+00	5.000000e+00	7.411876e-03	
+196	6.841417e-08	5.000000e+00	5.000000e+00	2.836289e-02	
+197	6.880939e-08	5.000000e+00	5.000000e+00	4.115712e-02	
+198	6.924234e-08	5.000000e+00	5.000000e+00	4.699073e-02	
+199	6.974234e-08	5.000000e+00	5.000000e+00	4.391788e-02	
+200	7.024234e-08	5.000000e+00	5.000000e+00	3.481262e-02	
+201	7.074234e-08	5.000000e+00	5.000000e+00	2.468229e-02	
+202	7.124234e-08	5.000000e+00	5.000000e+00	1.639685e-02	
+203	7.174234e-08	5.000000e+00	5.000000e+00	1.093456e-02	
+204	7.224234e-08	5.000000e+00	5.000000e+00	8.001817e-03	
+205	7.274234e-08	5.000000e+00	5.000000e+00	6.470174e-03	
+206	7.324234e-08	5.000000e+00	5.000000e+00	5.341355e-03	
+207	7.374234e-08	5.000000e+00	5.000000e+00	4.401962e-03	
+208	7.424234e-08	5.000000e+00	5.000000e+00	3.609646e-03	
+209	7.474234e-08	5.000000e+00	5.000000e+00	2.934867e-03	
+210	7.500000e-08	5.000000e+00	5.000000e+00	2.625700e-03	
+211	7.505000e-08	4.950000e+00	5.000000e+00	2.025949e-03	
+212	7.515000e-08	4.850000e+00	5.000000e+00	6.271034e-04	
+213	7.535000e-08	4.650000e+00	5.000000e+00	-1.65521e-03	
+214	7.573088e-08	4.269121e+00	5.000000e+00	-3.88714e-03	
+215	7.623088e-08	3.769121e+00	5.000000e+00	-5.12139e-03	
+216	7.673088e-08	3.269121e+00	5.000000e+00	-5.45111e-03	
+217	7.723088e-08	2.769121e+00	5.000000e+00	-5.67341e-03	
+218	7.773088e-08	2.269121e+00	5.000000e+00	-6.28120e-03	
+219	7.823088e-08	1.769121e+00	5.000000e+00	-6.46390e-03	
+220	7.873088e-08	1.269121e+00	5.000000e+00	-4.26372e-03	
+221	7.923088e-08	7.691208e-01	5.000000e+00	-1.68241e-03	
+222	7.973088e-08	2.691208e-01	5.000000e+00	1.204922e-03	
+223	8.000000e-08	0.000000e+00	5.000000e+00	3.308385e-03	
+224	8.000844e-08	8.437851e-03	5.000000e+00	3.454095e-03	
+225	8.002531e-08	2.531355e-02	5.000000e+00	3.871031e-03	
+226	8.005906e-08	5.906496e-02	5.000000e+00	5.055114e-03	
+227	8.012657e-08	1.265678e-01	5.000000e+00	7.361572e-03	
+228	8.026157e-08	2.615734e-01	5.000000e+00	1.083720e-02	
+
+Index   time            v(93)           v(72)           v(82)           
+--------------------------------------------------------------------------------
+229	8.053158e-08	5.315846e-01	5.000000e+00	1.470908e-02	
+230	8.083482e-08	8.348211e-01	5.000000e+00	1.593895e-02	
+231	8.119380e-08	1.193799e+00	5.000000e+00	1.518722e-02	
+232	8.155762e-08	1.557616e+00	5.000000e+00	1.331559e-02	
+233	8.205762e-08	2.057616e+00	5.000000e+00	1.042253e-02	
+234	8.255762e-08	2.557616e+00	5.000000e+00	7.763089e-03	
+235	8.305762e-08	3.057616e+00	5.000000e+00	5.495287e-03	
+236	8.355762e-08	3.557616e+00	5.000000e+00	3.642982e-03	
+237	8.405762e-08	4.057616e+00	5.000000e+00	1.981042e-03	
+238	8.455762e-08	4.557616e+00	5.000000e+00	-5.07451e-05	
+239	8.500000e-08	5.000000e+00	5.000000e+00	-2.41693e-03	
+240	8.505000e-08	5.000000e+00	5.000000e+00	-3.17293e-03	
+241	8.515000e-08	5.000000e+00	5.000000e+00	-4.84752e-03	
+242	8.535000e-08	5.000000e+00	5.000000e+00	-7.65619e-03	
+243	8.575000e-08	5.000000e+00	5.000000e+00	-1.11777e-02	
+244	8.617516e-08	5.000000e+00	5.000000e+00	-1.41532e-02	
+245	8.667516e-08	5.000000e+00	5.000000e+00	-1.70171e-02	
+246	8.713581e-08	5.000000e+00	5.000000e+00	-1.52185e-02	
+247	8.763581e-08	5.000000e+00	5.000000e+00	-3.23571e-03	
+248	8.813581e-08	5.000000e+00	5.000000e+00	1.693039e-02	
+249	8.863581e-08	5.000000e+00	5.000000e+00	3.637657e-02	
+250	8.913581e-08	5.000000e+00	5.000000e+00	4.652569e-02	
+251	8.963581e-08	5.000000e+00	5.000000e+00	4.550278e-02	
+252	9.013581e-08	5.000000e+00	5.000000e+00	3.720303e-02	
+253	9.063581e-08	5.000000e+00	5.000000e+00	2.692812e-02	
+254	9.113581e-08	5.000000e+00	5.000000e+00	1.805373e-02	
+255	9.163581e-08	5.000000e+00	5.000000e+00	1.190050e-02	
+256	9.213581e-08	5.000000e+00	5.000000e+00	8.466809e-03	
+257	9.263581e-08	5.000000e+00	5.000000e+00	6.767682e-03	
+258	9.313581e-08	5.000000e+00	5.000000e+00	5.566015e-03	
+259	9.363581e-08	5.000000e+00	5.000000e+00	4.598012e-03	
+260	9.413581e-08	5.000000e+00	5.000000e+00	3.774226e-03	
+261	9.463581e-08	5.000000e+00	5.000000e+00	3.079895e-03	
+262	9.500000e-08	5.000000e+00	5.000000e+00	2.630851e-03	
+263	9.505000e-08	4.950000e+00	5.000000e+00	2.032301e-03	
+264	9.515000e-08	4.850000e+00	5.000000e+00	6.332298e-04	
+265	9.535000e-08	4.650000e+00	5.000000e+00	-1.64890e-03	
+266	9.575000e-08	4.250000e+00	5.000000e+00	-3.96160e-03	
+267	9.625000e-08	3.750000e+00	5.000000e+00	-5.14195e-03	
+268	9.675000e-08	3.250000e+00	5.000000e+00	-5.45421e-03	
+269	9.725000e-08	2.750000e+00	5.000000e+00	-5.68325e-03	
+270	9.775000e-08	2.250000e+00	5.000000e+00	-6.31709e-03	
+271	9.825000e-08	1.750000e+00	5.000000e+00	-6.44233e-03	
+272	9.875000e-08	1.250000e+00	5.000000e+00	-4.13721e-03	
+273	9.925000e-08	7.500000e-01	5.000000e+00	-1.52351e-03	
+274	9.975000e-08	2.500000e-01	5.000000e+00	1.372249e-03	
+275	1.000000e-07	0.000000e+00	5.000000e+00	3.305581e-03	
+
+             *this is a 10 bit binary counter with 220 transistors
+             Transient Analysis  Sat Sep 24 21:52:20  2011
+--------------------------------------------------------------------------------
+Index   time            v(80)           v(79)           
+--------------------------------------------------------------------------------
+0	0.000000e+00	2.206893e-08	2.206893e-08	
+1	5.000000e-12	1.207803e-05	1.205378e-05	
+2	1.000000e-11	3.584289e-05	3.574631e-05	
+3	2.000000e-11	1.037379e-04	1.033671e-04	
+4	4.000000e-11	3.226338e-04	3.208569e-04	
+5	8.000000e-11	8.549541e-04	8.483059e-04	
+6	1.600000e-10	1.764807e-03	1.749274e-03	
+7	3.200000e-10	2.767235e-03	2.746797e-03	
+8	5.452281e-10	3.155118e-03	3.141319e-03	
+9	8.544879e-10	2.980929e-03	2.978499e-03	
+10	1.182581e-09	2.534885e-03	2.539882e-03	
+11	1.587851e-09	1.554078e-03	1.562683e-03	
+12	2.087851e-09	-2.59297e-04	-2.49913e-04	
+13	2.587851e-09	-1.87992e-03	-1.87129e-03	
+14	3.087851e-09	-2.74483e-03	-2.73737e-03	
+15	3.587851e-09	-2.88914e-03	-2.88317e-03	
+16	4.087851e-09	-2.59817e-03	-2.59076e-03	
+17	4.587851e-09	-2.12854e-03	-2.11870e-03	
+18	5.000000e-09	-1.71905e-03	-1.71011e-03	
+19	5.050000e-09	-2.09571e-03	-2.08280e-03	
+20	5.150000e-09	-2.89634e-03	-2.87265e-03	
+21	5.350000e-09	-3.36375e-03	-3.32909e-03	
+22	5.615635e-09	-2.42285e-03	-2.39800e-03	
+23	5.889574e-09	-1.38404e-03	-1.37152e-03	
+24	6.148500e-09	-5.72228e-04	-5.69980e-04	
+25	6.524618e-09	1.307813e-04	1.212549e-04	
+26	6.935388e-09	5.760906e-04	5.518826e-04	
+27	7.307219e-09	7.573580e-04	7.215323e-04	
+28	7.807219e-09	8.751288e-04	8.324413e-04	
+29	8.307219e-09	8.655502e-04	8.280507e-04	
+30	8.807219e-09	8.171893e-04	7.949205e-04	
+31	9.307219e-09	7.311693e-04	7.257713e-04	
+32	9.807219e-09	6.541988e-04	6.604297e-04	
+33	1.030722e-08	5.745462e-04	5.843465e-04	
+34	1.080722e-08	5.097270e-04	5.195721e-04	
+35	1.130722e-08	4.428620e-04	4.530511e-04	
+36	1.180722e-08	3.874123e-04	3.979085e-04	
+37	1.230722e-08	3.335408e-04	3.431157e-04	
+38	1.280722e-08	2.867310e-04	2.950734e-04	
+39	1.330722e-08	2.433619e-04	2.501144e-04	
+40	1.380722e-08	2.106784e-04	2.160527e-04	
+41	1.430722e-08	1.802424e-04	1.841977e-04	
+42	1.480722e-08	1.541949e-04	1.570329e-04	
+43	1.500000e-08	1.445260e-04	1.468753e-04	
+44	1.505000e-08	1.377087e-04	1.445158e-04	
+45	1.515000e-08	1.209291e-04	1.397847e-04	
+46	1.535000e-08	9.767107e-05	1.304730e-04	
+47	1.575000e-08	9.112778e-05	1.120432e-04	
+48	1.625000e-08	8.552367e-05	8.837480e-05	
+49	1.675000e-08	7.408193e-05	6.790260e-05	
+50	1.725000e-08	6.048169e-05	5.311036e-05	
+51	1.768652e-08	4.912611e-05	4.479406e-05	
+52	1.815211e-08	4.297005e-05	3.972717e-05	
+53	1.865211e-08	5.453877e-05	3.732270e-05	
+54	1.915211e-08	5.970549e-05	3.656370e-05	
+
+Index   time            v(80)           v(79)           
+--------------------------------------------------------------------------------
+55	1.963546e-08	5.901351e-05	3.649855e-05	
+56	2.000000e-08	6.520835e-05	3.663772e-05	
+57	2.001106e-08	6.581949e-05	3.663740e-05	
+58	2.003317e-08	6.857538e-05	3.665231e-05	
+59	2.007740e-08	8.077883e-05	3.675409e-05	
+60	2.016586e-08	1.044102e-04	3.700099e-05	
+61	2.034278e-08	1.137762e-04	3.692187e-05	
+62	2.058202e-08	8.946725e-05	3.625885e-05	
+63	2.086343e-08	5.242490e-05	3.560707e-05	
+64	2.119872e-08	1.884235e-05	3.497023e-05	
+65	2.156972e-08	-4.23635e-07	3.423598e-05	
+66	2.206972e-08	-6.18027e-06	3.287672e-05	
+67	2.256972e-08	-1.32217e-06	3.110965e-05	
+68	2.306972e-08	4.867451e-06	2.904794e-05	
+69	2.356972e-08	1.045508e-05	2.687936e-05	
+70	2.406972e-08	1.306189e-05	2.468434e-05	
+71	2.447845e-08	1.104915e-05	2.292345e-05	
+72	2.484711e-08	7.810598e-06	2.140282e-05	
+73	2.500000e-08	6.683893e-06	2.080332e-05	
+74	2.503653e-08	3.839658e-06	2.064104e-05	
+75	2.510960e-08	-4.64406e-06	2.028525e-05	
+76	2.525573e-08	-1.88418e-05	1.960690e-05	
+77	2.554799e-08	-1.63655e-05	1.870828e-05	
+78	2.604799e-08	6.249812e-07	1.722506e-05	
+79	2.654799e-08	7.407819e-06	1.557226e-05	
+80	2.701394e-08	2.884746e-05	1.434773e-05	
+81	2.751394e-08	9.370155e-05	1.335769e-05	
+82	2.801394e-08	1.618351e-04	1.223888e-05	
+83	2.851394e-08	1.650761e-04	1.068582e-05	
+84	2.901394e-08	9.042291e-05	9.151906e-06	
+85	2.950685e-08	-1.37316e-05	8.133600e-06	
+86	3.000685e-08	-9.01446e-05	7.727618e-06	
+87	3.050685e-08	-1.13327e-04	7.612083e-06	
+88	3.100685e-08	-9.54862e-05	7.442784e-06	
+89	3.150685e-08	-6.08553e-05	7.084835e-06	
+90	3.200685e-08	-2.57480e-05	6.609631e-06	
+91	3.250685e-08	-1.36038e-06	6.080938e-06	
+92	3.300685e-08	8.938803e-06	5.572093e-06	
+93	3.349481e-08	1.177418e-05	5.174360e-06	
+94	3.399481e-08	1.240188e-05	4.860081e-06	
+95	3.449481e-08	1.200519e-05	4.594943e-06	
+96	3.499481e-08	1.159515e-05	4.366976e-06	
+97	3.500000e-08	1.157165e-05	4.364721e-06	
+98	3.501037e-08	1.131795e-05	4.359168e-06	
+99	3.503112e-08	1.014873e-05	4.343903e-06	
+100	3.506440e-08	5.760332e-06	4.295283e-06	
+101	3.513096e-08	-5.09019e-06	4.150481e-06	
+102	3.526409e-08	-1.73409e-05	3.984315e-06	
+103	3.553034e-08	-1.71871e-05	4.046909e-06	
+104	3.603034e-08	1.384426e-06	4.122715e-06	
+105	3.653034e-08	1.343926e-05	3.912729e-06	
+106	3.703034e-08	1.639025e-05	3.666899e-06	
+107	3.753034e-08	1.364451e-05	3.464351e-06	
+108	3.803034e-08	9.661943e-06	3.314610e-06	
+109	3.853034e-08	1.986980e-05	3.291099e-06	
+110	3.903034e-08	2.743659e-05	3.172528e-06	
+111	3.953034e-08	2.935110e-05	3.001151e-06	
+112	4.000000e-08	3.704105e-05	2.946749e-06	
+
+Index   time            v(80)           v(79)           
+--------------------------------------------------------------------------------
+113	4.001374e-08	3.801326e-05	2.948130e-06	
+114	4.004122e-08	4.210124e-05	2.966275e-06	
+115	4.009618e-08	5.774643e-05	3.093423e-06	
+116	4.020611e-08	8.076110e-05	3.311775e-06	
+117	4.039514e-08	7.909296e-05	3.078199e-06	
+118	4.069157e-08	4.318309e-05	2.473730e-06	
+119	4.100136e-08	4.356623e-06	2.241590e-06	
+120	4.136895e-08	-2.38157e-05	2.287585e-06	
+121	4.179091e-08	-3.56767e-05	2.462781e-06	
+122	4.229091e-08	-3.33159e-05	2.565725e-06	
+123	4.279091e-08	-2.54637e-05	2.557065e-06	
+124	4.329091e-08	-1.73297e-05	2.472440e-06	
+125	4.379091e-08	-1.03243e-05	2.385705e-06	
+126	4.429091e-08	-8.97614e-06	2.260186e-06	
+127	4.479091e-08	-1.11119e-05	2.161861e-06	
+128	4.500000e-08	-1.11732e-05	2.138855e-06	
+129	4.505000e-08	-1.52344e-05	2.100953e-06	
+130	4.515000e-08	-2.60682e-05	1.988561e-06	
+131	4.535000e-08	-3.74603e-05	1.892928e-06	
+132	4.575000e-08	-2.37270e-05	2.140190e-06	
+133	4.614573e-08	-1.20523e-05	2.156440e-06	
+134	4.658730e-08	-5.75789e-06	2.036128e-06	
+135	4.700450e-08	1.614152e-05	2.102610e-06	
+136	4.750450e-08	8.262178e-05	2.340585e-06	
+137	4.800450e-08	1.505316e-04	2.300134e-06	
+138	4.850450e-08	1.549661e-04	1.727622e-06	
+139	4.900450e-08	8.177028e-05	1.056690e-06	
+140	4.950450e-08	-2.17410e-05	7.885664e-07	
+141	5.000450e-08	-9.61274e-05	1.054722e-06	
+142	5.050450e-08	-1.17587e-04	1.524736e-06	
+143	5.100450e-08	-9.90530e-05	1.868163e-06	
+144	5.150450e-08	-6.42626e-05	1.963033e-06	
+145	5.200450e-08	-2.93737e-05	1.891974e-06	
+146	5.250450e-08	-5.25417e-06	1.721503e-06	
+147	5.300450e-08	4.808263e-06	1.533234e-06	
+148	5.349617e-08	7.782145e-06	1.414039e-06	
+149	5.399617e-08	8.635106e-06	1.355614e-06	
+150	5.449617e-08	8.492271e-06	1.316474e-06	
+151	5.499617e-08	8.305241e-06	1.291974e-06	
+152	5.500000e-08	8.288965e-06	1.291732e-06	
+153	5.500766e-08	8.166553e-06	1.290857e-06	
+154	5.502298e-08	7.582897e-06	1.287428e-06	
+155	5.505174e-08	4.480370e-06	1.264805e-06	
+156	5.510926e-08	-4.97959e-06	1.166561e-06	
+157	5.522429e-08	-1.82664e-05	1.020239e-06	
+158	5.545435e-08	-2.20952e-05	1.103976e-06	
+159	5.591448e-08	-5.84107e-06	1.383631e-06	
+160	5.641448e-08	8.936683e-06	1.369176e-06	
+161	5.691448e-08	1.360554e-05	1.256632e-06	
+162	5.741448e-08	1.230760e-05	1.170309e-06	
+163	5.791448e-08	7.180931e-06	1.116149e-06	
+164	5.841448e-08	1.416671e-05	1.176607e-06	
+165	5.891448e-08	3.102041e-05	1.243105e-06	
+166	5.941448e-08	2.961027e-05	1.086874e-06	
+167	5.991448e-08	2.553812e-05	1.019341e-06	
+168	6.000000e-08	2.647082e-05	1.037879e-06	
+169	6.000358e-08	2.649861e-05	1.038535e-06	
+170	6.001075e-08	2.664743e-05	1.039904e-06	
+
+Index   time            v(80)           v(79)           
+--------------------------------------------------------------------------------
+171	6.002508e-08	2.792435e-05	1.046102e-06	
+172	6.005375e-08	3.463724e-05	1.093299e-06	
+173	6.011108e-08	5.267560e-05	1.283417e-06	
+174	6.022575e-08	7.365291e-05	1.509378e-06	
+175	6.045508e-08	6.809090e-05	1.215703e-06	
+176	6.077606e-08	2.857703e-05	6.922367e-07	
+177	6.115284e-08	-1.12158e-05	5.895517e-07	
+178	6.151288e-08	-3.05089e-05	7.492882e-07	
+179	6.201288e-08	-3.63371e-05	9.797352e-07	
+180	6.251288e-08	-3.04504e-05	1.081546e-06	
+181	6.301288e-08	-2.25800e-05	1.085601e-06	
+182	6.351288e-08	-1.50746e-05	1.049604e-06	
+183	6.401288e-08	-9.85549e-06	1.003201e-06	
+184	6.451288e-08	-9.90728e-06	9.327888e-07	
+185	6.500000e-08	-1.34677e-05	8.824666e-07	
+186	6.503369e-08	-1.58219e-05	8.640810e-07	
+187	6.510108e-08	-2.31991e-05	7.975461e-07	
+188	6.523585e-08	-3.66838e-05	6.688972e-07	
+189	6.550539e-08	-3.57163e-05	7.946154e-07	
+190	6.578354e-08	-2.35039e-05	9.913489e-07	
+191	6.614216e-08	-1.38585e-05	9.925119e-07	
+192	6.654817e-08	-8.13852e-06	9.365293e-07	
+193	6.691417e-08	8.038871e-06	9.870799e-07	
+194	6.741417e-08	6.929241e-05	1.266769e-06	
+195	6.791417e-08	1.422805e-04	1.326070e-06	
+196	6.841417e-08	1.602195e-04	8.640235e-07	
+197	6.880939e-08	1.147558e-04	3.041389e-07	
+198	6.924234e-08	2.782040e-05	-8.64439e-08	
+199	6.974234e-08	-6.66748e-05	-3.40126e-08	
+200	7.024234e-08	-1.14613e-04	4.129863e-07	
+201	7.074234e-08	-1.13304e-04	8.732058e-07	
+202	7.124234e-08	-8.36218e-05	1.119384e-06	
+203	7.174234e-08	-4.72871e-05	1.140594e-06	
+204	7.224234e-08	-1.65927e-05	1.035764e-06	
+205	7.274234e-08	5.427531e-07	8.693700e-07	
+206	7.324234e-08	6.225503e-06	7.272698e-07	
+207	7.374234e-08	7.545888e-06	6.613777e-07	
+208	7.424234e-08	8.044656e-06	6.390818e-07	
+209	7.474234e-08	7.784515e-06	6.267085e-07	
+210	7.500000e-08	7.713551e-06	6.234036e-07	
+211	7.505000e-08	3.039460e-06	5.838189e-07	
+212	7.515000e-08	-9.48378e-06	4.642389e-07	
+213	7.535000e-08	-2.41492e-05	3.639720e-07	
+214	7.573088e-08	-1.34767e-05	6.600549e-07	
+215	7.623088e-08	3.910213e-06	7.795583e-07	
+216	7.673088e-08	1.230941e-05	6.852105e-07	
+217	7.723088e-08	1.275811e-05	6.117462e-07	
+218	7.773088e-08	8.326297e-06	5.484788e-07	
+219	7.823088e-08	9.329158e-06	5.854038e-07	
+220	7.873088e-08	2.510492e-05	6.847813e-07	
+221	7.923088e-08	2.781553e-05	6.012204e-07	
+222	7.973088e-08	2.501805e-05	5.177180e-07	
+223	8.000000e-08	2.882154e-05	5.728342e-07	
+224	8.000844e-08	2.910952e-05	5.736533e-07	
+225	8.002531e-08	3.058625e-05	5.796453e-07	
+226	8.005906e-08	3.860836e-05	6.361128e-07	
+227	8.012657e-08	5.927437e-05	8.522297e-07	
+228	8.026157e-08	7.832855e-05	1.022061e-06	
+
+Index   time            v(80)           v(79)           
+--------------------------------------------------------------------------------
+229	8.053158e-08	6.204021e-05	5.675337e-07	
+230	8.083482e-08	2.219354e-05	1.451949e-07	
+231	8.119380e-08	-1.42234e-05	1.085425e-07	
+232	8.155762e-08	-3.23358e-05	2.914797e-07	
+233	8.205762e-08	-3.70671e-05	5.260554e-07	
+234	8.255762e-08	-3.06149e-05	6.345835e-07	
+235	8.305762e-08	-2.26845e-05	6.428031e-07	
+236	8.355762e-08	-1.50885e-05	6.175577e-07	
+237	8.405762e-08	-1.04083e-05	5.761567e-07	
+238	8.455762e-08	-1.05933e-05	5.183840e-07	
+239	8.500000e-08	-1.36713e-05	4.827401e-07	
+240	8.505000e-08	-1.78158e-05	4.483797e-07	
+241	8.515000e-08	-2.86677e-05	3.487693e-07	
+242	8.535000e-08	-3.99773e-05	2.824736e-07	
+243	8.575000e-08	-2.61983e-05	5.745224e-07	
+244	8.617516e-08	-1.35930e-05	6.317212e-07	
+245	8.667516e-08	-4.80831e-06	5.550998e-07	
+246	8.713581e-08	2.915076e-05	7.282600e-07	
+247	8.763581e-08	1.037913e-04	9.926395e-07	
+248	8.813581e-08	1.600805e-04	8.390932e-07	
+249	8.863581e-08	1.414194e-04	2.111792e-07	
+250	8.913581e-08	5.230602e-05	-3.57251e-07	
+251	8.963581e-08	-4.90333e-05	-4.31949e-07	
+252	9.013581e-08	-1.09578e-04	-2.51133e-08	
+253	9.063581e-08	-1.17657e-04	4.708613e-07	
+254	9.113581e-08	-9.20743e-05	7.826415e-07	
+255	9.163581e-08	-5.58916e-05	8.486308e-07	
+256	9.213581e-08	-2.27935e-05	7.759129e-07	
+257	9.263581e-08	-1.99618e-06	6.218787e-07	
+258	9.313581e-08	5.257931e-06	4.689087e-07	
+259	9.363581e-08	7.178326e-06	3.929907e-07	
+260	9.413581e-08	7.842614e-06	3.729724e-07	
+261	9.463581e-08	7.623759e-06	3.615865e-07	
+262	9.500000e-08	7.507937e-06	3.625468e-07	
+263	9.505000e-08	2.820197e-06	3.227494e-07	
+264	9.515000e-08	-9.70877e-06	2.037769e-07	
+265	9.535000e-08	-2.43640e-05	1.059587e-07	
+266	9.575000e-08	-1.30703e-05	4.161168e-07	
+267	9.625000e-08	4.200475e-06	5.302063e-07	
+268	9.675000e-08	1.224502e-05	4.374665e-07	
+269	9.725000e-08	1.245358e-05	3.698532e-07	
+270	9.775000e-08	7.858527e-06	3.120181e-07	
+271	9.825000e-08	9.440808e-06	3.590068e-07	
+272	9.875000e-08	2.565525e-05	4.624805e-07	
+273	9.925000e-08	2.777946e-05	3.749190e-07	
+274	9.975000e-08	2.468308e-05	2.967888e-07	
+275	1.000000e-07	2.814799e-05	3.531478e-07	
+
+Total elapsed time: 0.362 seconds.
+elapsed time since last call: 0.362 seconds.
+Total DRAM available = 3186.203125 MB.
+DRAM currently available = 155.777344 MB.
+Total ngspice program size = 5.939453 MB.
+Resident set size = 1.099609 MB.
+Shared ngspice pages = 559.000 kB.
+Text (code) pages = 923.000 kB.
+Stack = 0 bytes.
+Library pages = 3.744141 MB.
+
+Number of lines in the deck = 237
+Netlist loading time = 0.001
+Netlist parsing time = 0.002
+
+Nominal temperature = 27
+Operating temperature = 25
+Total iterations = 1113
+Transient iterations = 1075
+Circuit Equations = 537
+Circuit original non-zeroes = 3043
+Circuit fill-in non-zeroes = 736
+Circuit total non-zeroes = 3779
+Transient timepoints = 292
+Accepted timepoints = 276
+Rejected timepoints = 16
+Total analysis time = 0.343
+Matrix load time = 0.243
+Matrix synchronize time = 0
+Matrix combine time = 0
+Matrix reorder time = 0.001
+Matrix factor time = 0.043
+Matrix solve time = 0.021
+Transient analysis time = 0.329
+Transient load time = 0.234
+Transient sync time = 0
+Transient combine time = 0
+Transient factor time = 0.041
+Transient solve time = 0.021
+Transient trunc time = 0.015
+Transient iters per point = 0
+AC analysis time = 0
+AC load time = 0
+AC sync time = 0
+AC combine time = 0
+AC factor time = 0
+AC solve time = 0
+

@@ -1,0 +1,597 @@
+events: Hits
+
+fl=/build/buildd/eglibc-2.13/csu/libc-start.c
+fn=__libc_start_main
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/main.c
+cfn=main
+calls=35 1285
+258 35
+
+fl=/build/buildd/eglibc-2.13/debug/asprintf_chk.c
+fn=__asprintf_chk
+cfl=/build/buildd/eglibc-2.13/debug/vasprintf_chk.c
+cfn=*__GI___vasprintf_chk
+calls=1 69
+38 1
+
+fl=/build/buildd/eglibc-2.13/debug/vasprintf_chk.c
+fn=*__GI___vasprintf_chk
+cfl=/build/buildd/eglibc-2.13/string/../sysdeps/i386/strchrnul.S
+cfn=__strchrnul
+calls=1 132
+69 1
+
+fl=/build/buildd/eglibc-2.13/string/../sysdeps/i386/strchrnul.S
+fn=__strchrnul
+132 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/runcoms.c
+fn=dosim
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/spiceif.c
+cfn=if_run
+calls=35 343
+323 35
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/runcoms.c
+fn=ft_dorun
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/runcoms.c
+cfn=dosim
+calls=35 323
+389 35
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/spiceif.c
+fn=if_run
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktdojob.c
+cfn=CKTdoJob
+calls=1 147
+343 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/spiceif.c
+fn=if_run
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktdojob.c
+cfn=CKTdoJob
+calls=34 210
+343 34
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/main.c
+fn=main
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/frontend/runcoms.c
+cfn=ft_dorun
+calls=35 389
+1285 35
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niconv.c
+fn=NIconvTest
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktop.c
+cfn=CKTconvTest
+calls=1 113
+71 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niinteg.c
+fn=NIintegrate
+78 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+fn=NIiter
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+cfn=CKTload
+calls=20 68
+82 20
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+fn=NIiter
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+cfn=CKTload
+calls=2 65
+82 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+fn=NIiter
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+cfn=SMPluFac
+calls=7 177
+141 7
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+fn=NIiter
+167 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+fn=NIiter
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niconv.c
+cfn=NIconvTest
+calls=1 71
+201 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spbuild.c
+fn=spClear
+125 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spbuild.c
+fn=spClear
+128 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+fn=spFactor
+369 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+fn=spFactor
+375 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+fn=spFactor
+378 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+fn=spFactor
+380 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+fn=spFactor
+411 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+fn=spFactor
+421 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPclear
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spbuild.c
+cfn=spClear
+calls=1 128
+149 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPclear
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spbuild.c
+cfn=spClear
+calls=1 125
+149 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPluFac
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+cfn=spFactor
+calls=1 375
+177 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPluFac
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+cfn=spFactor
+calls=1 369
+177 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPluFac
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+cfn=spFactor
+calls=1 380
+177 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPluFac
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+cfn=spFactor
+calls=2 421
+177 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPluFac
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+cfn=spFactor
+calls=1 378
+177 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+fn=SMPluFac
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spfactor.c
+cfn=spFactor
+calls=1 411
+177 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktdojob.c
+fn=CKTdoJob
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktsetup.c
+cfn=CKTsetup
+calls=1 68
+147 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktdojob.c
+fn=CKTdoJob
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+cfn=DCtran
+calls=31 781
+210 31
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktdojob.c
+fn=CKTdoJob
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+cfn=DCtran
+calls=2 852
+210 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktdojob.c
+fn=CKTdoJob
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+cfn=DCtran
+calls=1 198
+210 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/sparse/spsmp.c
+cfn=SMPclear
+calls=2 149
+65 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 592
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 840
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 1101
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 946
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=2 422
+68 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 431
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 136
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 1036
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 351
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 419
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 938
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=2 942
+68 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 774
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 597
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 995
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 685
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 983
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktload.c
+fn=CKTload
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+cfn=MOS3load
+calls=1 360
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktmkvol.c
+fn=CKTmkVolt
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/parser/ifnewuid.c
+cfn=IFnewUid
+calls=1 40
+30 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktop.c
+fn=CKTop
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+cfn=NIiter
+calls=1 82
+42 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktop.c
+fn=CKTconvTest
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3conv.c
+cfn=MOS3convTest
+calls=1 62
+113 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktsetup.c
+fn=CKTsetup
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3set.c
+cfn=MOS3setup
+calls=1 195
+68 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktterr.c
+fn=CKTterr
+70 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/ckttrunc.c
+fn=CKTtrunc
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3trun.c
+cfn=MOS3trunc
+calls=1 24
+43 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/ckttrunc.c
+fn=CKTtrunc
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3trun.c
+cfn=MOS3trunc
+calls=1 19
+43 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+fn=DCtran
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktop.c
+cfn=CKTop
+calls=1 42
+198 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+fn=DCtran
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+cfn=NIiter
+calls=1 201
+781 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+fn=DCtran
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+cfn=NIiter
+calls=21 82
+781 21
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+fn=DCtran
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+cfn=NIiter
+calls=2 167
+781 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+fn=DCtran
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niiter.c
+cfn=NIiter
+calls=7 141
+781 7
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/dctran.c
+fn=DCtran
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/ckttrunc.c
+cfn=CKTtrunc
+calls=2 43
+852 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/devsup.c
+fn=DEVlimvds
+21 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/devsup.c
+fn=DEVfetlim
+105 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3conv.c
+fn=MOS3convTest
+62 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+136 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/devsup.c
+cfn=DEVfetlim
+calls=1 105
+351 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/devsup.c
+cfn=DEVlimvds
+calls=1 21
+360 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+419 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+422 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=??
+cfn=unknown
+calls=1 0
+422 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+431 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+592 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+597 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+685 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+774 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=??
+cfn=unknown
+calls=1 0
+840 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=??
+cfn=__log
+calls=1 0
+938 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=??
+cfn=unknown
+calls=2 0
+942 2
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+946 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+983 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=??
+cfn=unknown
+calls=1 0
+995 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/maths/ni/niinteg.c
+cfn=NIintegrate
+calls=1 78
+1036 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3load.c
+fn=MOS3load
+1101 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3set.c
+fn=MOS3setup
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktmkvol.c
+cfn=CKTmkVolt
+calls=1 30
+195 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3trun.c
+fn=MOS3trunc
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktterr.c
+cfn=CKTterr
+calls=1 70
+19 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/devices/mos3/mos3trun.c
+fn=MOS3trunc
+cfl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/analysis/cktterr.c
+cfn=CKTterr
+calls=1 70
+24 1
+
+fl=/home/kariem2k/Sources/ngspice/ng-spice-rework/src/spicelib/parser/ifnewuid.c
+fn=IFnewUid
+cfl=/build/buildd/eglibc-2.13/debug/asprintf_chk.c
+cfn=__asprintf_chk
+calls=1 38
+40 1
+
+fl=??
+fn=_start
+cfl=/build/buildd/eglibc-2.13/csu/libc-start.c
+cfn=__libc_start_main
+calls=35 258
+0 35
+
+fl=??
+fn=unknown
+0 5
+
+fl=??
+fn=__log
+0 1
+
