@@ -17,7 +17,7 @@ if [ ! -d "$PROF_DIR" ]
 then
 	mkdir $PROF_DIR
 else
-	rm "$PROF_DIR/*.$PROF_EXT"
+	rm "$PROF_DIR/*.$PROF_RESULT_EXT"
 fi
 
 if [ ! -d "$SPICE_OUT_DIR" ]
